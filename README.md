@@ -20,6 +20,6 @@ e sao chamados automaticamente para a internacao quando é liberado um leito.
 caso tenha.
 [7].[4]:Imprimir lista Internacao: Imprimi todos pacientes na internacao.
 [7].[5]:Quantidade de leitos disponiveis: Mostra todos leitos disponiveis na unidade caso tenha.
-[7].[6]:Alterar quantidade de leitos: Possivel alterar a quantidade de leitos da unidade, exemplo caso na configuracao inicial tenha colococado
+[7].[6]:Alterar quantidade de leitos: Possivel alterar a quantidade de leitos da unidade, exemplo caso na configuracao inicial tenha colocado
 20leitos e possivel alterar essa quantidade por esse campo.
 
